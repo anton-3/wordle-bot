@@ -112,7 +112,7 @@ function calculatePossibleWords(letters) {
 
 function guess() {
   if (currentRow() == 0) {
-    typeWord('salet');
+    typeWord('crane');
     return;
   }
 
